@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Order #12345",
+    "status": "Pending",
+    "date": "2024-06-25",
+    "progress": 25
+  },
+  {
+    "name": "Order #12346",
+    "status": "Completed",
+    "date": "2024-06-24",
+    "progress": 100
+  },
+  {
+    "name": "Order #12347",
+    "status": "Pending",
+    "date": "2024-06-23",
+    "progress": 50
+  },
+  {
+    "name": "Order #12348",
+    "status": "Canceled",
+    "date": "2024-06-22",
+    "progress": 0
+  }
+]

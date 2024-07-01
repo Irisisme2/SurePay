@@ -1,0 +1,32 @@
+[
+  {
+    "orderId": "ORD001",
+    "customerName": "John Doe",
+    "orderStatus": "Pending",
+    "actions": ["View Details", "Manage Payment"]
+  },
+  {
+    "orderId": "ORD002",
+    "customerName": "Jane Smith",
+    "orderStatus": "Completed",
+    "actions": ["View Details", "Manage Payment"]
+  },
+  {
+    "orderId": "ORD003",
+    "customerName": "Michael Johnson",
+    "orderStatus": "Canceled",
+    "actions": ["View Details"]
+  },
+  {
+    "orderId": "ORD004",
+    "customerName": "Emily Brown",
+    "orderStatus": "Pending",
+    "actions": ["View Details"]
+  },
+  {
+    "orderId": "ORD005",
+    "customerName": "David Wilson",
+    "orderStatus": "Completed",
+    "actions": ["View Details", "Manage Payment"]
+  }
+]
